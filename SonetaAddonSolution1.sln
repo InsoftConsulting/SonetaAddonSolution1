@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33712.159
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonetaAddon1", "SonetaAddon1\SonetaAddon1.csproj", "{87A5F21C-86D7-4FB4-8640-A610B1F7DB11}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4699D34D-7D25-4307-A465-B70697B66406}"
+	ProjectSection(SolutionItems) = preProject
+		Directory.Build.props = Directory.Build.props
+		global.json = global.json
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SonetaAddon2", "SonetaAddon2\SonetaAddon2.csproj", "{629A3B16-0011-430C-88CF-E75EF87B0CAB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87A5F21C-86D7-4FB4-8640-A610B1F7DB11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87A5F21C-86D7-4FB4-8640-A610B1F7DB11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87A5F21C-86D7-4FB4-8640-A610B1F7DB11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87A5F21C-86D7-4FB4-8640-A610B1F7DB11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{629A3B16-0011-430C-88CF-E75EF87B0CAB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{629A3B16-0011-430C-88CF-E75EF87B0CAB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{629A3B16-0011-430C-88CF-E75EF87B0CAB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{629A3B16-0011-430C-88CF-E75EF87B0CAB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BAB63616-E47C-4596-9E55-0D776A85E6CF}
+	EndGlobalSection
+EndGlobal
